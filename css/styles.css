@@ -1,0 +1,31 @@
+body {
+  padding: 32px;
+  font-family: 'Montserrat', sans-serif;
+}
+.title {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.desc {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.5;
+  margin-top: 20px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 30px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+  background-color: #f8678a;
+  border-radius: 3px;
+}
+.btn:hover {
+  color:black;
+}
